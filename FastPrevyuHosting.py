@@ -21,7 +21,7 @@ from aiogram.types import (
     LabeledPrice,
 )
 from aiogram.utils.keyboard import ReplyKeyboardBuilder
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8638068274:AAGK4Uz37q0D_TiU9s37HW8aiOFDVMuTczk")
 
 ADMIN_IDS = {7543852010, 418350122}
 PRIMARY_ADMIN_USERNAME = "@Fast_gamer_uz"
